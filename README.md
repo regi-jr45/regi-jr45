@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 Reginaldo Batista da Silva Júnior
+🚀 Reginaldo  Júnior
 <div align="center"> <br>
 
 💻 Front-End Developer em transição
